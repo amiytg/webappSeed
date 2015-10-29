@@ -1,0 +1,16 @@
+{
+  "name": "TuNet",
+  "dependencies": {
+    "bootstrap": "*",
+    "angular": "*",
+    "angular-ui-router": "*",
+    "momentjs": "*",
+    "jquery": "*",
+    "requirejs": "*",
+    "require-css": "*",
+    "jsnlog": "*"
+  },
+  "devDependencies": {
+   
+  }
+}
